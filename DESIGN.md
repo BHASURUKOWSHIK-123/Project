@@ -162,7 +162,7 @@ Flow:
 - Kept scope minimal for assignment
 - Trade-off: Scaling is reactive via capacity provider only
 
----
+----
 
 ## Production Readiness Improvements
 
