@@ -169,7 +169,7 @@ Flow:
 If extended to production, the following enhancements would be implemented:
 
 ### 1. Security
-- Enable AWS WAF for ALB
+- Enable AWS WAF for ALB.
 - Use HTTPS between ALB and ECS (end-to-end encryption)
 - Add IAM condition policies (resource-level restrictions)
 
